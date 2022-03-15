@@ -1,0 +1,19 @@
+{
+  "name": "yard-sale-react-webpack",
+  "version": "1.0.0",
+  "description": "Yard Sale react-webpack ",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "javascritpt"
+  ],
+  "author": "Arturo Terceros <atercerosb@univalle.edu>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
